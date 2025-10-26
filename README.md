@@ -36,7 +36,7 @@
 
 * [NCSA Mosaic](https://github.com/alandipert/ncsa-mosaic)
 * [Mozilla (the open sourced version of Netscape Navigator)](https://archive.mozilla.org/pub/mozilla/source/)
-* [Wolfenstein 3D](https://github.com/id-Software/)
+* [Wolfenstein 3D](https://github.com/id-Software/wolf3d)
 * [DOOM](https://github.com/id-Software/DOOM)
 * [Quake](https://github.com/id-Software/Quake)
 * [Microsoft Word for Windows 1.1a](http://www.computerhistory.org/atchm/microsoft-research-license-agreement-msword-v-1-1a/)
